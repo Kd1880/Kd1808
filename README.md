@@ -3,7 +3,7 @@ Hi! I'm Kriti Dogra —  B.Tech CSE (AI Specialization) student at Bennett Unive
 
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kriti-dogra18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kritidogra1808@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Kd1808) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/KritiDogra/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kriti-dogra18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kritidogra1808@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Kd1880) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/KritiDogra/)
 
 
 ## Tech Stack:
